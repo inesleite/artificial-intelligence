@@ -1,4 +1,4 @@
-# Projecto_IA_RaceTrack
+# Artificial Intelligence project
 
 
 O projecto tem 3 fases incluindo: 
